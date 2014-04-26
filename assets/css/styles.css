@@ -38,18 +38,19 @@ p.annotation{
   width:60%;
   background-color:#b0e0e6;
 }
-p.annotationArtifact{
+p.artifact{
   margin:auto;
-  width:60%;
-  background-color:#b0e0e6;
-  font-style: "bold"
+  width:50%;  
+  border: 5px solid black;
 }
+
 
 
 ul,
 ol {
   line-height: 1.6em;
   margin: 0 0 30px 0;
+
 }
 blockquote {
   padding: 10px 20px;
