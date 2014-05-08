@@ -1,0 +1,4 @@
+Instructions for viewing this portfolio:
+
+1. To view this portfolio, please open index.html with any browser
+	or browse to http://aryder405.github.io/ with an open internet connection.
